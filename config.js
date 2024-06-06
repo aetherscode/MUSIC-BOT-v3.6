@@ -22,11 +22,11 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["1220645095389270019", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  mongodbURL: "mongodb+srv://aetherscode:aetherscode@aetherscode.nbmaobg.mongodb.net/?retryWrites=true&w=majority",
+  status: 'AethersCode',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -35,7 +35,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "https://bioku.my.id/aetherscode",
   },
 
   voteManager: {
